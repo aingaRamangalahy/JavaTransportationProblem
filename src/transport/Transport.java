@@ -60,7 +60,7 @@ public class Transport {
     }
  
     static void solutionBase(){
-        /*AingaMOFIF*/
+        /*Ainga MODIF*/
         System.out.printf("Solution de base \n");
    double totalCosts = 0;
         for (int r = 0; r < supply.length; r++) {
